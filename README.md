@@ -36,4 +36,4 @@ This documentation is aimed to help prospective node-operators set up and config
 ## Do you have any questions?
 
 -  [Discord Community](https://discord.gg/caspernetwork)
--  [Telegram Channel](https://t.me/casperblockchain) 
+-  [Telegram Community](https://t.me/casperblockchain) 
