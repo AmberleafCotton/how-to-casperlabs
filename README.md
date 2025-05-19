@@ -1,4 +1,4 @@
-<img src="assets/CasperNetwork/casper-network-logo.png" alt="Casper Signer" width="200" height="50">
+<img src="assets/CasperNetwork/casper-network-logo.png" alt="Casper Signer" width="200" height="80">
 
 # Casper Network - Information and How-To Guides
 
