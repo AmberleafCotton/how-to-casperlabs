@@ -31,10 +31,9 @@ This documentation is aimed to help prospective node-operators set up and config
   - [TestNet Upgrades](/docs/testnet/testnet-upgrades.md)
 
 ### Miscellaneous
-  - ❓ [Validator FAQ](/docs/faq-validator.md)
+- ❓ [Validator FAQ](/docs/faq-validator.md)
 
 ## Do you have any questions?
 
-Let's connect
 -  [Discord Community](https://discord.gg/caspernetwork)
 -  [Telegram Channel](https://t.me/casperblockchain) 
